@@ -1,4 +1,4 @@
-# HTML
+cd task-html# HTML
 
 Установите зависимости:
 
